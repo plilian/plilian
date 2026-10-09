@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Parham Lilian — Product, Data and AI</title>
+  <desc id="description">A dark, minimal profile banner showing a path from product questions through data and AI to useful products, across FinTech, gaming, and Web3.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10192B"/>
+      <stop offset="1" stop-color="#111225"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#70DDD0"/>
+      <stop offset="1" stop-color="#A99BFF"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#A9B7D0" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <circle cx="1070" cy="-16" r="210" fill="#8276FF" fill-opacity=".08"/>
+  <circle cx="930" cy="310" r="180" fill="#55D5C5" fill-opacity=".055"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="68" y="62" fill="#8FA2C2" font-size="14" font-weight="600" letter-spacing="3.2">PARHAM LILIAN  /  PRODUCT STRATEGY · DATA · AI</text>
+    <text x="66" y="137" fill="#F4F6FC" font-size="53" font-weight="700" letter-spacing="-1.8">Product × Data × AI</text>
+    <text x="69" y="178" fill="#BAC5D8" font-size="20" font-weight="400">From business questions to working products.</text>
+
+    <g transform="translate(69 211)">
+      <rect width="104" height="34" rx="17" fill="#1B2A3B" stroke="#70DDD0" stroke-opacity=".42"/>
+      <text x="52" y="22" text-anchor="middle" fill="#BDF3EC" font-size="11" font-weight="700" letter-spacing="1.5">FINTECH</text>
+      <rect x="116" width="106" height="34" rx="17" fill="#1B2A3B" stroke="#A99BFF" stroke-opacity=".42"/>
+      <text x="169" y="22" text-anchor="middle" fill="#D3CEFF" font-size="11" font-weight="700" letter-spacing="1.5">GAMING</text>
+      <rect x="234" width="92" height="34" rx="17" fill="#1B2A3B" stroke="#F0BD79" stroke-opacity=".48"/>
+      <text x="280" y="22" text-anchor="middle" fill="#F6D8AD" font-size="11" font-weight="700" letter-spacing="1.5">WEB3</text>
+    </g>
+
+    <g transform="translate(770 56)">
+      <text x="0" y="0" fill="#8293AE" font-size="11" font-weight="700" letter-spacing="2.2">A PRACTICAL LOOP</text>
+      <path d="M18 40V189" fill="none" stroke="url(#accent)" stroke-width="2" stroke-opacity=".72"/>
+      <circle cx="18" cy="52" r="7" fill="#70DDD0"/>
+      <circle cx="18" cy="115" r="7" fill="#A99BFF"/>
+      <circle cx="18" cy="178" r="7" fill="#F0BD79"/>
+      <text x="43" y="57" fill="#E5EAF4" font-size="16" font-weight="600">Understand the question</text>
+      <text x="43" y="120" fill="#E5EAF4" font-size="16" font-weight="600">Model with data &amp; AI</text>
+      <text x="43" y="183" fill="#E5EAF4" font-size="16" font-weight="600">Build a useful product</text>
+      <path d="M320 51h34m-34 63h34m-34 63h34" stroke="#53627B" stroke-width="1.5" stroke-linecap="round"/>
+      <circle cx="366" cy="51" r="3" fill="#70DDD0"/>
+      <circle cx="366" cy="114" r="3" fill="#A99BFF"/>
+      <circle cx="366" cy="177" r="3" fill="#F0BD79"/>
+    </g>
+  </g>
+</svg>
