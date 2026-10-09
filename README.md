@@ -23,14 +23,19 @@ My work spans **FinTech, gaming, Web3, and AI**.
 
 ## How I work
 
-**Product** · Strategy, discovery, KPI design, experimentation, growth, and monetization  
-**Data** · Product analytics, market intelligence, modeling, and decision-support tools  
-**AI** · Assistants, agent workflows, automation, and AI product design  
+**Product** · Strategy, discovery, KPI design, experimentation, growth, and monetization
+
+**Data** · Product analytics, market intelligence, modeling, and decision-support tools
+
+**AI** · RAG, source-grounded knowledge graphs, AI assistants, agent workflows, automation, and AI product design
+
 **Domains** · FinTech · Gaming economies · Web3
 
 ## Tools
 
-Python · SQL · Streamlit · Plotly · Gemini · Firestore
+**AI & agents** · OpenAI Codex · Claude Code · Gemini CLI · Qwen Code · RAG · Knowledge graphs
+
+**Build & data** · Python · SQL · Streamlit · Plotly · Gemini · Firestore
 
 ---
 
